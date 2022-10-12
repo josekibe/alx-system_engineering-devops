@@ -1,0 +1,2 @@
+#!/bibn/bash
+echo $(($TRUEKNOWLEDGE+128))
